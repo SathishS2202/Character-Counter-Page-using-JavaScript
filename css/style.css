@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    background-color:rgb(252, 219, 219);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    margin: 50px 330px;
+    padding: 80px;
+    width: 45%;
+    background-color:lightcoral;
+    border-top: 10px solid rgb(247, 70, 70);
+    border-bottom: 10px solid rgb(247, 70, 70);
+}
+textarea{
+    border-radius: 5px;
+    padding: 80px;
+    width: 75%;
+    margin-left: -10px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: x-large;
+   color: rgb(11, 124, 0);
+   
+}
+p{
+    text-align: justify;
+}
